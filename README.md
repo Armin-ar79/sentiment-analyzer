@@ -8,7 +8,7 @@ This is a simple web app that uses a pretrained sentiment analysis model from Hu
 - Deployed via Hugging Face Spaces
 
 ## Demo
-👉 [Try the app here](https://your-username-your-space-name.hf.space)
+👉 [Try the app here]((https://huggingface.co/spaces/Armin-ar79/sentiment-analyzer)
 
 ## How to Run Locally
 

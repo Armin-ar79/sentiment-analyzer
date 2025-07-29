@@ -1,2 +1,19 @@
-# sentiment-analyzer
-A simple web app for sentiment analysis using Hugging Face Transformers and Gradio. It classifies input text as positive or negative in real time.
+# Sentiment Analysis App with Transformers and Gradio
+
+This is a simple web app that uses a pretrained sentiment analysis model from Hugging Face (DistilBERT) and the Gradio library to classify user input as positive or negative.
+
+## Features
+- English sentiment classification
+- Simple Gradio interface
+- Deployed via Hugging Face Spaces
+
+## Demo
+👉 [Try the app here](https://your-username-your-space-name.hf.space)
+
+## How to Run Locally
+
+```bash
+git clone https://huggingface.co/spaces/your-username/your-space-name
+cd your-space-name
+pip install -r requirements.txt
+python app.py
